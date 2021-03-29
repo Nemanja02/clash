@@ -67,7 +67,7 @@ pycparser==2.19
 pydub==0.23.1
 pygame==1.9.6
 pyglet==1.4.2
-Pygments==2.4.2
+Pygments==2.7.4
 PyInstaller==3.5
 pylint==2.3.1
 pymongo==3.8.0
