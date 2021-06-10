@@ -17,7 +17,7 @@ colorama==0.4.1
 cycler==0.10.0
 Cython==0.29.13
 decorator==4.4.0
-Django==2.2.6
+Django==2.2.24
 dnspython==1.16.0
 Eel==0.10.4
 fake-useragent==0.1.11
