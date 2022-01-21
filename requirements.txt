@@ -38,7 +38,7 @@ greenlet==0.4.15
 html5lib==1.0.1
 idna==2.8
 include==0.2.2
-ipython==7.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 isort==4.3.21
 itsdangerous==1.1.0
