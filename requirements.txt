@@ -52,7 +52,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.1
 mccabe==0.6.1
 mutagen==1.42.0
-numpy==1.16.4
+numpy==1.22.0
 opencv-python==4.1.0.25
 pandas==0.24.2
 parso==0.5.1
